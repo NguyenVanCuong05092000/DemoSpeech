@@ -1,0 +1,15 @@
+    <resources>
+    <string name="app_name">DemoSpeech</string>
+        <string name="ettPtText">Xuống chuyến bay lúc 19h, anh Lê Văn Thông, 33 tuổi, nói mình đặt GrabCar về nhà tại quận Gò Vấp. Được hướng dẫn lên lầu 3 đón xe do tài xế không chờ phía dưới, dù bất tiện hơn nhưng vì "giá xe công nghệ rẻ hơn taxi gần 70.000 đồng", anh Thông đành kéo valy xếp hàng chờ thang máy. "Thang máy bị kẹt do khách quá đông nên tôi phải xách hành lý gần 20kg leo cầu thang bộ lên tầng. Xách đồ nặng nên khá mệt", anh Thông nói.</string>
+        <string name="tvwPtCountry">Language:</string>
+        <string name="tvwPtStyle">Style:</string>
+        <string name="tvwPtGender">Gender:</string>
+        <string name="tvwPtNaturalSampleRateHertz">NaturalSampleRateHertz:</string>
+        <string name="tvwPtPitch">Pitch Rate:</string>
+        <string name="tvwPtSpeakRate">Speak Rate:</string>
+        <string name="btnPtSpeechText">Speak</string>
+        <string name="btnPtSpeechResume">Resume</string>
+        <string name="btnPtSpeechPause">Pause</string>
+        <string name="btnPtSpeechStop">Stop</string>
+        <string name="btnPtRefresh">Refresh</string>
+</resources>
